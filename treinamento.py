@@ -3,8 +3,8 @@ from chatterbot.trainers import ListTrainer
 import json
 
 CONFIGURACOES_CONVERSAS = [
-    "/home/mateus/Documentos/python/robo_chat/conversas/saudacoes.json",
-    "/home/mateus/Documentos/python/robo_chat/conversas/informacoes_basicas.json"  
+    "./conversas/saudacoes.json",
+    "./conversas/informacoes_basicas.json"  
 ]
 
 def iniciar():
@@ -34,9 +34,9 @@ def treinar_robo(treinador, conversas):
             #print(f"treinando o robô a: '{mensagens}' com a resposta: '{resposta}'")
             for mensagem in mensagens:
                 
-                print(mensagem)
-                print(resposta)
-                #treinador.train([mensagem, resposta])
+                # print(mensagem)
+                #print(resposta)
+                 treinador.train([mensagem, resposta])
 
 def main():
     _, treinador = iniciar()

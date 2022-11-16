@@ -2,19 +2,19 @@
     "conversas": [
         {
             "mensagens": ["Olá", "oi", "eae"],
-            "resposta": ["Olá sou o robô de atendimento da Edm comercio de frutas. Como posso lhe ajudar?"]
+            "resposta": "Olá sou o robô de atendimento da Edm comercio de frutas. Como posso lhe ajudar?"
         },
         {
             "mensagens": ["Bom dia"],
-            "resposta": ["Bom dia sou o robô de atendimento da Edm comercio de frutas. Como posso lhe ajudar?"]            
+            "resposta": "Bom dia sou o robô de atendimento da Edm comercio de frutas. Como posso lhe ajudar?"         
         },
         {
             "mensagens": ["Boa tarde"],
-            "resposta": ["Boa tarde sou o robô de atendimento da Edm comercio de frutas. Como posso lhe ajudar?"]            
+            "resposta": "Boa tarde sou o robô de atendimento da Edm comercio de frutas. Como posso lhe ajudar?"        
         },
         {
             "mensagens": ["Boa noite"],
-            "resposta": ["Boa noite sou o robô de atendimento da Edm comercio de frutas. Como posso lhe ajudar?"]            
+            "resposta": "Boa noite sou o robô de atendimento da Edm comercio de frutas. Como posso lhe ajudar?"            
         }
     ]
 }
