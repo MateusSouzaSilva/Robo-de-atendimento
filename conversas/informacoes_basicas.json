@@ -1,0 +1,57 @@
+{
+    "conversas": [
+        {
+            "mensagens": ["Onde vocês atendem?", "onde vocês trabalham?", "qual local de funcionamento?", "onde posso ser atendido?"],
+            "resposta": ["Nós trabalhamos na Central de abastecimento de Vitória da Conquista, CEAVIC"]
+        },
+        {
+            "mensagens": ["Qual horáio de funcionamento?", "Vocês trabalham que horas?", "Até que horas fica aberto?"],
+            "resposta": ["Nós trabalhamos Domingo e segunda, de 5h as 18h, e as terças de 5h as 10h"]           
+        }, 
+        {
+            "mensagens": ["Vocês realizam entregas?", "Até onde entregam?"],
+            "resposta": ["Nós fazemos entregas somente no perimetro da CEAVIC"]
+        },
+        {
+            "mensagens": ["Quais tipos de frutas vocês trabalham?", "trabalham com o que?", "qual tipo de mercadoria?"],
+            "resposta": ["Nós trabalhamos com Banana, Uva, goiaba e melão"]
+        },
+        {
+            "mensagens": ["Qual preço da Uva?"],
+            "resposta": ["A caixa de uva custa R$ 150.00"]
+        },
+        {
+            "mensagens": ["Qual preço da Goiaba?"],
+            "resposta": ["A caixa de goiaba custa R$ 90.00"]
+        },
+        {
+            "mensagens": ["Qual preço da Banana?"],
+            "resposta": ["A caixa de banana custa R$ 55.00"]
+        },
+        {
+            "mensagens": ["Qual preço do Melão ?"],
+            "resposta": ["A caixa de melão custa R$ 60.00"]
+        },
+        {
+            "mensagens": ["Qual beneficio da Uva?"],
+            "resposta": ["A Uva tem os seguintes beneficios: Prevenção de problemas cardiacos, controle da pressão arterial, Aumento da saúde do sistema digestório."]
+        },
+        {
+            "mensagens": ["Qual beneficio da Goiaba?"],
+            "resposta": ["A Goiaba tem os seguintes beneficios: Ajuda a controlar os niveis de açucar no sangue, pode aliviar colicas mestruais, ajuda a emagrecer, previne o câncer."]
+        },
+        {
+            "mensagens": ["Qual beneficio da Banana?"],
+            "resposta": ["A Banana tem os seguintes beneficios: Previne doenças cardiovasculares, melhora o sono, traz energia para o corpo e reduz cãibras."]
+        },
+        {
+            "mensagens": ["Qual beneficio do Melão?"],
+            "resposta": ["A Melão tem os seguintes beneficios: Ajuda a reduzir a pressão arterial, fortalece os ossos, favorece o sistema imunológico, auxilia a saúde ocular."]
+        },
+        {
+           "mensagens": ["Quais a forma de pagamento?"],
+           "resposta": ["No momento só aceitamos dinheiro em especie, ou transferência bancária"]
+        }
+        
+    ]
+}
